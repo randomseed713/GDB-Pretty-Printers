@@ -5,6 +5,8 @@
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white">
 
+[English Documentation](README.md)
+
 用于 GDB 调试器的 pretty printers，支持以下库：
 
 - **nlohmann/json** — JSON 对象美化显示

@@ -174,13 +174,13 @@ $2 = absl::flat_hash_set<int> with 3 elems  = {20, 10, 30}
 
 #### 使用方法
 
-**方法 1：在 GDB 会话中手动加载**
+**方法 1 — 在 GDB 会话中手动加载**
 
 ```bash
 (gdb) source /path/to/nlohmann-json.py
 ```
 
-**方法 2：通过 `.gdbinit` 自动加载**
+**方法 2 — 通过 `.gdbinit` 自动加载**
 
 在项目根目录或用户主目录的 `.gdbinit` 文件中添加：
 
@@ -188,7 +188,7 @@ $2 = absl::flat_hash_set<int> with 3 elems  = {20, 10, 30}
 source /path/to/nlohmann-json.py
 ```
 
-**方法 3：VSCode 配置**
+**方法 3 — VSCode 配置**
 
 在 `.vscode/launch.json` 的 `setupCommands` 中添加：
 
@@ -237,13 +237,13 @@ $1 = std::map with 3 elements = {
 
 #### 使用方法
 
-**方法 1：在 GDB 会话中手动加载**
+**方法 1 — 在 GDB 会话中手动加载**
 
 ```bash
 (gdb) source /path/to/absl.py
 ```
 
-**方法 2：通过 `.gdbinit` 自动加载**
+**方法 2 — 通过 `.gdbinit` 自动加载**
 
 在项目根目录或用户主目录的 `.gdbinit` 文件中添加：
 
@@ -251,7 +251,7 @@ $1 = std::map with 3 elements = {
 source /path/to/absl.py
 ```
 
-**方法 3：VSCode 配置**
+**方法 3 — VSCode 配置**
 
 在 `.vscode/launch.json` 的 `setupCommands` 中添加：
 

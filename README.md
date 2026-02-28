@@ -1,5 +1,10 @@
 # GDB Pretty Printers
 
+<a href="https://github.com/randomseed713/GDB-Pretty-Printers/stargazers"><img src="https://img.shields.io/github/stars/randomseed713/GDB-Pretty-Printers?style=flat"></a>
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white">
+
 [中文](#gdb-pretty-printers-中文) | [English](#gdb-pretty-printers-english)
 
 ---
